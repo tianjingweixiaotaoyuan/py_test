@@ -1,1 +1,2 @@
 # py_test
+这里主要是用来测试git和jenkins对python项目的持续集成
